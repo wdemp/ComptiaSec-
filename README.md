@@ -53,3 +53,7 @@ Diffie Helman- a means of securely generating symmetric encryption keys across a
 ## Hashing vs encryption
 - Encryption can be reversed with password / keys
 - Hashes are one way operations. Although you can use rainbow tables to find existing hashes and crack passwords
+
+
+Mail Certificates:
+Base64-encoded certificate file, such as a PEM-encoded X509 certificate; used to authenticate a secure website; typically imported from a Unix-based Apache Web server and compatible with OpenSSL applications.
